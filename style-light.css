@@ -1,3 +1,13 @@
 body {
   background-color: wheat
 }
+
+.title {
+  text-align: center;
+  padding: 100px;
+}
+
+.icons {
+  display: flex;
+  flex-wrap: wrap;
+}
