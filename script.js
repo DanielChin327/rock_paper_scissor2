@@ -21,7 +21,10 @@ function getComputerChoice(){
   return choice[randomIndex];
 }
 
+function playRound() {
 
+
+}
 
 
 
