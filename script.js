@@ -18,9 +18,22 @@ scissorButton.addEventListener('click', () => {
 
 function getComputerChoice(){
   const randomIndex = Math.floor(Math.random() * choice.length)
+  return choice[randomIndex];
 }
 
 
+
+
+
+
+
+
+
+
+
+function updateScoreDisplay() {
+
+}
 
 
 
